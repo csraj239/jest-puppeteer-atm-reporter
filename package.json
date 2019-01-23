@@ -1,0 +1,24 @@
+{
+  "name": "jest-puppeteer-atm-reporter",
+  "version": "1.0.0",
+  "description": "npm module for jest to upload test execution result in atm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JIRA",
+    "Kanoah",
+    "ATM",
+    "Jest",
+    "Jest-Puppeteer"
+  ],
+  "author": "rajesh kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^6.1.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
